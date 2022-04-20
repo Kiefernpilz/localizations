@@ -7,7 +7,7 @@ TEST_MESSAGES_LIST:
   - '§6Тестовое сообщение'
   - '§6Тестовое сообщение'
 TEST_SCOREBOARD:
-  - '§fВаш статус: %core_rank%'
+  - '§fВаш статус: %prefix%'
   - ''
   - '§fМонет: &6%money%'
   - '§fРублей: §6%rubles%'
