@@ -48,3 +48,4 @@ WATCH_ERROR_NO_SERVER: '§8[§6§lJM§8] §6§l> §cОшибка, игровая
 WATCH_ERROR_GAME_ARENA_NOT_STARTED: '§8[§6§lJM§8] §6§l> §cОшибка, игровая арена еще не запущена, подождите ее начала!'
 LANGUAGE_SELECT_MENU_TITLE: 'выбор игрового языка'
 LANG_SELECT: '§8[§6§lJM§8] §6§l> §fВаш язык изменен на §cРусский!'
+
