@@ -20,7 +20,7 @@ SEND_HELP: '§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/send <н
 SERVER_HELP: '§8[§6§lJM§8] §6§l> §fИспользуйте - §d/server <сервер>'
 FIND_HELP: '§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/find <ник>'
 HUB_TELEPORT: '§8[§6§lJM§8] §6§l> §fВы были телепортированы в лобби'
-FIND_MESSAGE: '§8[§6§lJM§8] §6§l> %player% §fнаходится на сервере §e%server%'
+FIND_MESSAGE: '§8[§6§lJM§8] §6§l> §fИгрок §8%player% §fнаходится на сервере §6%server%'
 INFO:
   - '§8[§6§lJM§8] §6§l> §fИнформация о игроке %player%'
   - '§fУникальный ID §8- §6%id%'
