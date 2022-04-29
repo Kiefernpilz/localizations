@@ -1,13 +1,13 @@
 <div align="center">
 
- # JolyMine project - Translations
+ # Wither project - Translations
 	
  ***
-Данный репозиторий используется для мульти-языковой системы проекта **JolyMine Project (mc.jolymine.ru)**
+Данный репозиторий используется для мульти-языковой системы проекта **Wither Project (mc.wither.ru)**
 </div>
 
 ---
 ## Обратная связь
 Если вы нашли ошибку в переводе или как-то иначе помочь, то здесь находятся все ключи локализации которые мы можем поменять.
 
-* **[ВКонтакте](https://vk.me/jolymine)**
+* **[ВКонтакте](https://vk.me/witherproject)**
