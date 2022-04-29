@@ -3,7 +3,7 @@
  # Wither project - Translations
 	
  ***
-Данный репозиторий используется для мульти-языковой системы проекта **JolyMine Project (mc.wither.ru)**
+Данный репозиторий используется для мульти-языковой системы проекта **Wither Project (mc.wither.ru)**
 </div>
 
 ---
