@@ -50,12 +50,12 @@ WHITELIST_MESSAGE:
 #            Игрок
 # ==============================
 
-MINIMAL_GROUP: '§8[§6§lJM§8] §6§l> §fОшибка, для выполнения данной команды необходим статус %group% §fили выше!'
-ALREADY_CONNECTION: '§8[§6§lJM§8] §6§l> §fОшибка, вы уже находитесь на этом сервере!'
-SERVER_NOT_FOUND: '§8[§6§lJM§8] §6§l> §fОшибка, данный сервер не подключен к игровому координатору!'
+MINIMAL_GROUP: '§8[§6§lJM§8] §6§l> §fДля выполнения данной команды необходим статус %group% §fили выше!'
+ALREADY_CONNECTION: '§8[§6§lJM§8] §6§l> §fВы уже находитесь на этом сервере!'
+SERVER_NOT_FOUND: '§8[§6§lJM§8] §6§l> §fДанный сервер не подключен к игровому координатору!'
 PLAYER_OFFLINE: '§8[§6§lJM§8] §6§l> §fОшибка, игрок оффлайн!'
-NO_AUTH: '§8[§6§lJM§8] §6§l> §fОшибка, вы еще не авторизированы!'
-NO_COMMAND: '§8[§6§lJM§8] §6§l> §cОшибка, данная команда на этом сервере запрещена!'
+NO_AUTH: '§8[§6§lJM§8] §6§l> §fВы еще не авторизовались на сервере!'
+NO_COMMAND: '§8[§6§lJM§8] §6§l> §fДанная команда на этом сервере отключена!'
 NO_SERVER: '§8[§6§lJM§8] §6§l> §6Данный сервер был не найден!'
 NO_PLAYER: '§8[§6§lJM§8] §6§l> §fДанный игрок ранее не играл на нашем сервере'
 NO_ENOUGH_MONEY: '§8[§6§lJM§8] §6§l> §fВам не хватает §6%money% §fкрипсов'
@@ -67,7 +67,8 @@ NO_ENOUGH_RUBLES: '§8[§6§lJM§8] §6§l> §fВам не хватает §6%ru
 
 ALERT_FORMAT: '§8[§6§lJM§8] §6§l> §fИспользуй §8- §6/alert <сообщение>'
 ALERT_MESSAGE: '§8[§6СЕРВЕР§8] §f%message%'
-BROADCAST_HELP: '§8[§6§lJM§8] §6§l> §fИспользуй §8- §6/broadcast <сообщение>'
+BROADCAST_FORMAT: '§8[§6§lJM§8] §6§l> §fИспользуй §8- §6/broadcast <сообщение>'
+BROADCAST_MESSAGE: '§8[§6ОБЪЯВЛЕНИЕ§8] (§c%player%§8) §f%message%'
 SEND_HELP: '§8[§6§lJM§8] §6§l> §fИспользуй §8- §6/send <ник> <сервер>'
 SERVER_HELP: '§8[§6§lJM§8] §6§l> §fИспользуй - §d/server <сервер>'
 FIND_HELP: '§8[§6§lJM§8] §6§l> §fИспользуй §8- §6/find <ник>'
@@ -77,6 +78,9 @@ THROW_HELP: '§8[§6§lJM§8] §6§l> §fИспользуй §8- §6/throw <се
 THROW_MESSAGE: '§8[§6§lJM§8] §6§l> §fВсе игроки с сервера §6%server-1% §fбыли телепортированы на сервер: §6%server-2%'
 PING_MESSAGE: '§8[§6§lJM§8] §6§l> §fВаш пинг §6%ping% §fмс'
 PING_MESSAGE_OTHER: '§8[§6§lJM§8] §6§l> §fПинг игрока %player% §f- §a%ping% §fмс'
+LOCALIZATION_MESSAGE: '§8[§6§lJM§8] §6§l> §fЛокализация была успешна перезагружена!'
+RULES_MESSAGE: '§8[§6§lJM§8] §6§l> §fНаши правила §8- §6https://vk.cc/cat3AT'
+DISCORD_MESSAGE: '§8[§6§lJM§8] §6§l> §fНаш дискорд сервер §8- §6https://discord.gg/F2Pk74StgX'
 INFO:
   - '§8[§6§lJM§8] §6§l> §fИнформация о игроке §7%player%'
   - '§fУникальный ID §8- §6%id%'
