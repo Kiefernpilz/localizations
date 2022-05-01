@@ -82,7 +82,7 @@ LOCALIZATION_MESSAGE: '§8[§6§lJM§8] §6§l> §fЛокализация был
 RULES_MESSAGE: '§8[§6§lJM§8] §6§l> §fНаши правила §8- §6https://vk.cc/cat3AT'
 DISCORD_MESSAGE: '§8[§6§lJM§8] §6§l> §fНаш дискорд сервер §8- §6https://discord.gg/F2Pk74StgX'
 INFO_MESSAGE:
-  - '§8[§6§lJM§8] §6§l> §fИнформация о игроке §7%player%'
+  - '§8[§6§lJM§8] §6§l> §fИнформация о игроке §6%player%'
   - '§fУникальный ID §8- §6%id%'
   - '§fПривилегия §8- %group%'
   - '§fУровень §8- §6%level%'
