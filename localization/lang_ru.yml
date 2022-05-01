@@ -81,7 +81,7 @@ PING_MESSAGE_OTHER: '§8[§6§lJM§8] §6§l> §fПинг игрока %player% 
 LOCALIZATION_MESSAGE: '§8[§6§lJM§8] §6§l> §fЛокализация была успешна перезагружена!'
 RULES_MESSAGE: '§8[§6§lJM§8] §6§l> §fНаши правила §8- §6https://vk.cc/cat3AT'
 DISCORD_MESSAGE: '§8[§6§lJM§8] §6§l> §fНаш дискорд сервер §8- §6https://discord.gg/F2Pk74StgX'
-INFO:
+INFO_MESSAGE:
   - '§8[§6§lJM§8] §6§l> §fИнформация о игроке §7%player%'
   - '§fУникальный ID §8- §6%id%'
   - '§fПривилегия §8- %group%'
@@ -105,6 +105,7 @@ ONLINE_SERVER: '§8[§6§lJM§8] §6§l> §fОнлайн сервера §6%pref
 WATCH_FORMAT: '§8[§6§lJM§8] §6§l> §fИспользуй §8- §6/watch <ник>'
 WATCH_YOURSELF: '§8[§6§lJM§8] §6§l> §fВы не можете следить за собой!'
 WATCH_MESSAGE: '§8[§6§lJM§8] §6§l> §fИгрок %player% §fначал следить за %target%'
+
 # ==============================
 #      Модуль авторизации
 # ==============================
