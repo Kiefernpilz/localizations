@@ -14,21 +14,21 @@ PLAYER_TAB_FOOTER:
 BUNGEE_SERVER_MOTD_TEXT:
   - '                 §6§m§l    §8§l§m[§6§l §fＪｏｌｙ§6Ｍｉｎｅ §8§l§m]§6§m§l    §r'
   - '                 §6☬  §fГЛОБАЛЬНОЕ ОБНОВЛЕНИЕ §6☬'
-BUNGEE_SERVER_MOTD_HOVER:
-  - '§fВерсия сервера: §61.12.2 §8- §61.16.5'
-  - '§fСтатус: §2Работает'
 BUNGEE_WHITELIST_SERVER_MOTD_TEXT:
   - '                  §6§m§l    §8§l§m[§6§l §fＪｏｌｙ§6Ｍｉｎｅ §8§l§m]§6§m§l    §r'
   - '                  §6☬  §fТЕХНИЧЕСКИЕ РАБОТЫ §6☬'
-BUNGEE_WHITELIST_SERVER_MOTD_HOVER:
-  - '§fВерсия сервера: §61.12.2 §8- §61.16.5'
-  - '§fСтатус: §4Не работает'
-CORE_NOT_CONNECTED_MOTD:
+BUNGEE_NOT_CONNECTED_MOTD:
   - '                 §6§m§l    §8§l§m[§6§l §fＪｏｌｙ§6Ｍｉｎｅ §8§l§m]§6§m§l    §r'
   - '     §6☬  §fОТСУСТСТВУЕТ СВЯЗЬ С ИГРОВЫМ КООРДИНАТОРОМ §6☬'
-CORE_NOT_CONNECTED_HOVER:
+BUNGEE_WORKING_SERVER_HOVER:
+  - '§fВерсия сервера: §61.12.2 §8- §61.16.5'
+  - '§fСтатус: §2Работает'
+BUNGEE_WAITING_SERVER_HOVER:
   - '§fВерсия сервера: §61.12.2 §8- §61.16.5'
   - '§fСтатус: §eИмеются проблемы'
+BUNGEE_ERROR_SERVER_HOVER:
+  - '§fВерсия сервера: §61.12.2 §8- §61.16.5'
+  - '§fСтатус: §4Не работает'
 WELCOME_MESSAGE:
   - ''
   - '§8§k§l|§r§1  §fДобро пожаловать на §d§lJolyMine  §8§k§l|'
