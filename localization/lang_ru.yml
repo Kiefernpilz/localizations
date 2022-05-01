@@ -18,7 +18,7 @@ BUNGEE_SERVER_MOTD_HOVER:
   - '§fВерсия сервера: §61.12.2 §8- §61.16.5'
   - '§fСтатус: §2Работает'
 BUNGEE_WHITELIST_SERVER_MOTD_TEXT:
-  - '                   §6§m§l    §8§l§m[§6§l §fＪｏｌｙ§6Ｍｉｎｅ §8§l§m]§6§m§l    §r'
+  - '                  §6§m§l    §8§l§m[§6§l §fＪｏｌｙ§6Ｍｉｎｅ §8§l§m]§6§m§l    §r'
   - '                  §6☬  §fТЕХНИЧЕСКИЕ РАБОТЫ §6☬'
 BUNGEE_WHITELIST_SERVER_MOTD_HOVER:
   - '§fВерсия сервера: §61.12.2 §8- §61.16.5'
