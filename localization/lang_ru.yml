@@ -206,4 +206,4 @@ EXT_MESSAGE: '§8[§6§lJM§8] §6§l> §fВы потушили себя от о
 FEED_MESSAGE: '§8[§6§lJM§8] §6§l> §fВы покормили себя'
 FLY_MESSAGE: '§8[§6§lJM§8] §6§l> §fВы %fly% режим полета'
 GAMEMODE_FORMAT: '§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/gm <0/1/2/3>'
-GAMEMODE_MESSAGE: ''
+GAMEMODE_MESSAGE: '§8[§6§lJM§8] §6§l> §fВы сменили свой режим на %gamemode%'
