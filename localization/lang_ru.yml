@@ -218,3 +218,5 @@ VANISH_MESSAGE: '§8[§6§lJM§8] §6§l> §fВы §6%vanish% §fрежим не
 WEATHER_FORMAT: '§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/weather'
 WEATHER_MESSAGE: '§8[§6§lJM§8] §6§l> §fВы установили §6%weather% §fпогоду в этом мире'
 LAG_MESSAGE: '§8[§6§lJM§8] §6§l> §fТПС сервера: §6%tps%'
+CRASH_FORMAT: '§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/crash'
+CRASH_MESSAGE: '§8[§6§lJM§8] §6§l> §fИгрок §6%player% §fбыл успешно крашнут'
