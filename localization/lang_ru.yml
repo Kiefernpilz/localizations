@@ -224,10 +224,6 @@ INVSEE_FORMAT: '§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/invs
 #      Модуль дискорда
 # ==============================
 
-WELCOME_MSG: 'u2'
-DS_MESSAGE: 'u1'
-DS_LOGIN: 'u3'
-DS_PASS: 'tt1'
-DS_ADMIN: 'tt2'
-
-VK_SPAM_MESSAGE: 'Рассылка успешна отправлена в беседу %id%'
+TEST_WELCOME: 'To confirm your account write - <nickname> <password>'
+TEST_LOGIN: 'Confirm login with emoji below'
+TEST_WEB: 'Our website - https://limitedmc.net'
