@@ -230,7 +230,7 @@ TEST_LOGIN: 'Confirm login with emoji below'
 TEST_WEB: 'Our website - https://limitedmc.net'
 
 # ==============================
-#           Ивенты
+#        Игровые ивенты
 # ==============================
 
 GOLDBLOCK_FORMAT: 
