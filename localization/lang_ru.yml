@@ -240,6 +240,7 @@ GOLDBLOCK_FORMAT:
 ZARUBA_FORMAT:
   - '§8[§6§lJM§8] §6§l> §fУправление ивентом §6Заруба'
   - '§fЗапустить/остановить ивент §8- §6/zaruba start/stop'
+GOLDBLOCK_CREATE: '§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/goldblock create <Процент>'
 EVENT_STARTED: '§8[§6§lJM§8] §6§l> §fИвент был успешно запущен'
 EVENT_STARTED_ALREADY: '§8[§6§lJM§8] §6§l> §fИвент в данный момент уже запущен'
 EVENT_NO_STARTED: '§8[§6§lJM§8] §6§l> §fИвент в данный момент не запущен'
