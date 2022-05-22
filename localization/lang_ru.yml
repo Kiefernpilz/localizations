@@ -93,6 +93,7 @@ SERVER_FORMAT: '§8[§6§lJM§8] §6§l> §fИспользуйте - §6/server 
 FIND_FORMAT: '§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/find <ник>'
 FIND_MESSAGE: '§8[§6§lJM§8] §6§l> §fИгрок §6%player% §fнаходится на сервере §6%server%'
 HUB_MESSAGE: '§8[§6§lJM§8] §6§l> §fВы были телепортированы в лобби'
+HUB_NOT_WORK: 'На данный момент лобби не работает'
 THROW_FORMAT: '§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/throw <сервер 1> <сервер 2>'
 THROW_MESSAGE: '§8[§6§lJM§8] §6§l> §fВсе игроки с сервера §6%server-1% §fбыли телепортированы на сервер: §6%server-2%'
 PING_MESSAGE: '§8[§6§lJM§8] §6§l> §fВаш пинг §6%ping% §fмс'
