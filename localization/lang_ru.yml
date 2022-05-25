@@ -10,7 +10,7 @@ PLAYER_TAB_HEADER:
 PLAYER_TAB_FOOTER:
   - '§7'
   - '    §7Наша группа: §6§lvk.com/jolymine   '
-  - '   §7Наш сайт: §6§ljolymine.ru' 
+  - ' §7Наш сайт: §6§ljolymine.ru' 
 CLASSIC_BOARD_TITLE: '§lJolyMine'
 CLASSIC_BOARD_LINES:
   - '§7╔═§l◇ §6§nПрофиль:§r'
@@ -252,6 +252,7 @@ TELEPORT_MESSAGE:
   - '§fТелепортироваться по координатам §8- §6/teleport <x> <y> <z>'
   - '§fТелепортировать одного игрока к другому §8- §6/teleport <игрок> <игрок>'
   - '§fТелепортация игрока по координатам §8- §6/teleport <игрок> <x> <y> <z>'
+PLAYTIME_MESSAGE: '§8[§6§lJM§8] §6§l> §fВы наиграли на сервере уже: §6%time%'
 
 # ==============================
 #        Игровые ивенты
