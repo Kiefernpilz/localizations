@@ -53,7 +53,7 @@ WHITELIST_MESSAGE:
 #            Табло
 # ==============================
 
-CLASSIC_BOARD_TITLE: '§lJolyMine'
+CLASSIC_BOARD_TITLE: '§6§lJolyMine'
 CLASSIC_BOARD_LINES:
   - '§7╔═§l◇ §6§nПрофиль:§r'
   - '§7║ §fНик: §6%player%'
@@ -68,7 +68,7 @@ CLASSIC_BOARD_LINES:
   - '§7║ §fКрипсы: §6%money% ☬'
   - '§7║ §fРубли: §6%rubles% P'
   - '§7╚═§l◇ §6§lJolyMine.ru'
-HUB_BOARD_TITLE: '§lJolyMine'
+HUB_BOARD_TITLE: '§6§lJolyMine'
 HUB_BOARD_LINES:
   - '§7╔═§l◇ §6§nИнформация:§r'
   - '§7║ §fОбщий онлайн: §6%online%'
