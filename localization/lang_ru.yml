@@ -286,6 +286,11 @@ WEATHER_MESSAGE: '§8[§6§lJM§8] §6§l> §fВы установили §6%weat
 LAG_MESSAGE: '§8[§6§lJM§8] §6§l> §fТПС сервера: §6%tps%'
 LIGHTNING_FORMAT: '§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/lightning <игрок>'
 SALARY_CHECK: '§8[§6§lJM§8] §6§l> §fУ вас отсутствует зарплата'
+SCOREBOARD_FORMAT: 
+  - '§8[§6§lJM§8] §6§l> §fСписок доступных команд:'
+  - '§fВключить табло §8- §6/sc on'
+  - '§fВыключить табло §8- §6/sc off'
+SCOREBOARD_MESSAGE: '§8[§6§lJM§8] §6§l> §fВы §6%scoreboard% §fтабло'
 SKULL_FORMAT: '§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/skull <игрок>'
 SKULL_ITEM: '§8[§6§lJM§8] §6§l> §fВы получили голову %player% '
 MILK_MESSAGE: '§8[§6§lJM§8] §6§l> §fВы избавились от всех эффектов'
