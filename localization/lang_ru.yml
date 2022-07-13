@@ -4,7 +4,7 @@
 
 PLAYER_TAB_HEADER:
   - '§7'
-  - '§6§lJolyMine'
+  - '§6§l§nJolyMine'
   - '§7Сервер: §6%server%'
   - '§7Онлайн на сервере: §6%online%'
   - '§7Общий онлайн: §6%global%'
